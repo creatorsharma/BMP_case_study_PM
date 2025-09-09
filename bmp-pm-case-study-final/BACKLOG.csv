@@ -1,0 +1,6 @@
+ID,Feature,Reach,Impact,Confidence,Effort,RICE
+B1,Search by Area + Filters,1200,3,0.8,3,960.0
+B2,Slot Calendar + Booking,1200,3,0.8,4,720.0
+B3,Payments v1,1200,2,0.7,3,560.0
+B5,Partner Dashboard (schools),800,2,0.7,2,560.0
+B4,Venue Onboarding Portal,15,2,0.7,4,5.25
