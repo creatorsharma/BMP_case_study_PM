@@ -19,7 +19,7 @@ Results (3-month pilot):
 
 Vision & Deal Pathways (explicit):
 - **Option 1 (Partner & Transfer):** School invests and is partner (70% revenue share) during contract; at contract end school becomes sole owner (100% profit) and BMP converts to commission-per-booking on the BMP platform.
-- **Option 2 (BMP-funded Capex + Lease):** BMP invests in infrastructure and secures a 10+ year exclusive lease at market rent (e.g., ₹40k–₹50k/month).
+- **Option 2 (BMP-funded Capex + Lease):** BMP's model invests in infrastructure, securing a 10+ year lease with a rent holiday until investment is recovered, then paying the market rate (e.g., ₹40k–₹50k/month).
 
 
 ## 8) Visuals & Financial Model
