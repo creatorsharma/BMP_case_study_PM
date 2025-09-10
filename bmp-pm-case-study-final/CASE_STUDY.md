@@ -10,7 +10,7 @@ Contract structure: 3-month operating contracts where BMP managed bookings and o
 
 Execution (no app, no paid marketing):
 - Filled daily cricket & football slots via WhatsApp groups and school outreach.
-- Hosted corporate tournaments and intra-school events to seed demand.
+- Hosted corporate tournaments and sports quizes in schools to seed demand.
 - Managed scheduling manually via spreadsheets and confirmations over WhatsApp.
 
 Results (3-month pilot):
