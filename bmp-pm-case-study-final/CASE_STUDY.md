@@ -31,3 +31,15 @@ Vision & Deal Pathways (explicit):
 See [`assets/financial-model.xlsx`](assets/financial-model.xlsx) for detailed payback analysis under:
 - Path A (Partner & Transfer — School invests, 70% share → sole ownership later)
 - Path B (BMP-funded Capex + Lease — BMP invests, pays fixed rent, exclusive rights)
+
+## Daytime Academy Leasing (Fixed Cash Flow Strategy)
+
+To ensure stable cash flows and reduce fixed operational risk, BMP planned to lease low-demand daytime slots to football coaching academies:
+
+- **Time blocks**: Monday–Friday, 3–6 PM in winters and 4–7 PM in summers.  
+- **Rationale**: During these hours, primary customer groups (school/college students, working professionals) are occupied, making utilization low.  
+- **Example economics**: If school ground monthly rent is ₹80,000, leasing these idle hours to an academy for ₹40,000 (market standard) effectively halves BMP’s rent burden.  
+- **Impact**: Guarantees a steady cash flow while freeing evenings and weekends for high-margin customer bookings.  
+- **Partner vs Rental models**:  
+  - If **rental model** → BMP directly reduces its rent liability.  
+  - If **partner model** → sharing of academy lease income depends on final negotiated terms.  
